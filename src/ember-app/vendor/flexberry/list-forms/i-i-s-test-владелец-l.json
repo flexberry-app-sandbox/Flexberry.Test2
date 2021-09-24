@@ -1,0 +1,15 @@
+﻿{
+  "newForm": null,
+  "editForm": null,
+  "external": false,
+  "caption": "Владелец",
+  "name": "IISTestВладелецL",
+  "className": "ВладелецL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-test-владелец",
+      "modelProjection": "ВладелецL"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Владелец",
+      "projection": "ВладелецL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Робот",
+  "name": "IISTestРоботE",
+  "className": "РоботE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-test-робот",
+      "modelProjection": "Робот"
+    }
+  ]
+}
