@@ -14,7 +14,7 @@
         "Build": false,
         "GitClone": false,
         "GitPush": false,
-        "GhPagesPush": false
+        "GhPagesPush": true
       },
       "ApacheCordova": {
         "CordovaProject": false,
@@ -64,8 +64,8 @@
       }
     },
     "Docs": {
-      "Csv": false,
-      "Wmf": false
+      "Csv": true,
+      "Wmf": true
     },
     "Metadata": {
       "Crp": false,
