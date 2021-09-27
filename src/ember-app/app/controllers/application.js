@@ -28,12 +28,13 @@ export default Controller.extend({
             link: 'i-i-s-test-робот-l',
             caption: i18n.t('forms.application.sitemap.test.i-i-s-test-робот-l.caption'),
             title: i18n.t('forms.application.sitemap.test.i-i-s-test-робот-l.title'),
-            icon: 'list',
+            icon: 'building',
             children: null
           }, {
             link: 'i-i-s-test-владелец-l',
             caption: i18n.t('forms.application.sitemap.test.i-i-s-test-владелец-l.caption'),
             title: i18n.t('forms.application.sitemap.test.i-i-s-test-владелец-l.title'),
+            icon: 'suitcase',
             children: null
           }]
         }
