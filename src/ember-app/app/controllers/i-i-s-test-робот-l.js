@@ -6,7 +6,7 @@ export default ListFormController.extend({
 
     @property editFormRoute
     @type String
-    @default ''
+    @default 'i-i-s-test-робот-e'
    */
-  editFormRoute: ''
+  editFormRoute: 'i-i-s-test-робот-e'
 });

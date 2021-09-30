@@ -9,16 +9,16 @@
       "title": "Test",
       "children": [
         {
-          "link": "i-i-s-test-робот-l",
+          "link": "i-i-s-test-владелец-l",
           "menuName": null,
-          "caption": "Робот",
+          "caption": "Владелец",
           "title": "",
           "children": null
         },
         {
-          "link": "i-i-s-test-владелец-l",
+          "link": "i-i-s-test-робот-l",
           "menuName": null,
-          "caption": "Владелец",
+          "caption": "Робот",
           "title": "",
           "children": null
         }

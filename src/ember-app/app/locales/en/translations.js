@@ -83,13 +83,13 @@ $.extend(true, translations, {
         test: {
           caption: 'test',
           title: 'test',
-          'i-i-s-test-робот-l': {
-            caption: 'i-i-s-test-робот-l',
-            title: 'i-i-s-test-робот-l'
-          },
           'i-i-s-test-владелец-l': {
             caption: 'i-i-s-test-владелец-l',
             title: 'i-i-s-test-владелец-l'
+          },
+          'i-i-s-test-робот-l': {
+            caption: 'i-i-s-test-робот-l',
+            title: 'i-i-s-test-робот-l'
           }
         }
       }
